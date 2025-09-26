@@ -1,9 +1,11 @@
-git init 
-git add 
-git commit -m "message" 
-git status 
-git branch 
-git checkout 
-git merge 
-git push 
-git pull 
+git commands
+
+git init - Start a new repository
+git add - Stage files for commit
+git commit -m "message" - Save changes with description
+git status - Check repository state
+git branch - Work with branches
+git checkout - Switch branches
+git merge - Combine branches
+git push - Upload to remote
+git pull - Download from remote 
